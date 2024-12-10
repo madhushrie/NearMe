@@ -1,5 +1,6 @@
 # Ex04 Places Around Me
 ## Date: 
+10.12.24
 
 ## AIM
 To develop a website to display details about the places around my house.
@@ -154,15 +155,12 @@ Holy Cross Matriculation Higher Secondary School in Vellore is a renowned instit
 </body>
 </html>
 
-
-
-## OUTPUT
-
-
-
-
-
-
-
+## RESULT
+![alt text](<../../Screenshot (35).png>)
+![alt text](<../../Screenshot (34).png>)
+![alt text](<../../Screenshot (33).png>)
+![alt text](<../../Screenshot (32).png>)
+![alt text](<../../Screenshot (31).png>)
+![alt text](<../../Screenshot (30).png>)
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
