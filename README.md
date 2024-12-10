@@ -43,7 +43,7 @@ Execute the programs and publish them.
 
 
 <map name="image-map">
-    <area target="" alt="katpadi" title="katpadi" href="C:\Users\admin\NearMe\madhushrie\mapapp\static\katpadi" coords="883,91,818,161" shape="rect">
+    <area target="" alt="katpadi" title="katpadi" href="katpadi.html" coords="883,91,818,161" shape="rect">
     <area target="" alt="holy_cross" title="holy_cross" href="holy_cross.html" coords="976,245,49" shape="circle">
     <area target="" alt="bagayam" title="bagayam" href="bagayam.html" coords="855,434,820,497" shape="rect">
     <area target="" alt="poigai" title="poigai" href="poigai.html" coords="625,338,58" shape="circle">
